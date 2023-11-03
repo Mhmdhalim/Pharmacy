@@ -1,0 +1,8 @@
+Hello Friends.
+My Program can do three something:
+1. Read Drugs in different types
+2. Show Shortfalls
+3. Update quantity and addition or removing drugs
+So let're see
+
+Walla 😂
