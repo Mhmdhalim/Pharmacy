@@ -8,19 +8,23 @@ My Program can do three something:
 3. Update quantity and addition or removing drugs
 4. Show types of drugs
 
-### Frist: READING
+### Frist: Reading
 you can read all drug or specific type such as:
 Tablet, Cream, Jel, AMP...etc.\
 and you can show specific information like Action or Quantity or both.
 
-### Secound: SHORTFALLS 
+### Secound: Shortfalls 
 you can detemine the type and the quantity to show shortfalls in your pharmacy.
 
-### Third: UPDATE, ADDITION AND REMOVING
+### Third: Update, addition and removing
 in this function you can update quantity for and drug.\
 you can add new drug or remove excisting drug.
 
-### Forth: TYPES OF DRUG
+### Forth: types of drug
 Show types: Cream, jel, tablet, syrup..etc.
+
+### Libraries
+I used sys, pandas.\
+[Python 3](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 > Walla 😂😂
